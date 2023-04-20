@@ -20,6 +20,6 @@ conda env create -f environment.yml
 conda activate AG3D
 ```
 
-3. Download the [WCAD](https://pan.baidu.com/s/18hSpaQ36x0A-OWn-hgcOEQ) (password:srp1) and [HOI annotation](https://pan.baidu.com/s/17bRpE49KkdeyTL5NoQcXUw) (password:3osd)
+3. Download the [WCAD v0.1](https://pan.baidu.com/s/18hSpaQ36x0A-OWn-hgcOEQ) (password:srp1) and [HOI annotation](https://pan.baidu.com/s/17bRpE49KkdeyTL5NoQcXUw) (password:3osd)
 
 ## We will upload the pre-trained models.
