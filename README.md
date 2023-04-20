@@ -14,7 +14,7 @@ We recomend you to setup in the following steps:
 git clone https://github.com/ZxyLinkstart/Automatic-Generation-of-3D-Scene-Animation.git
 ```
 
-2.Create conda environment
+2. Create conda environment
 ```
 conda env create -f environment.yml
 conda activate AG3D
