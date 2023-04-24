@@ -20,7 +20,7 @@ conda env create -f environment.yml
 conda activate AG3D
 ```
 
-3. Download the "The Web-collected Animation Dataset(WCAD)"
+3. Download the "The Web-collected Animation Dataset (WCAD)"
 
 If you want to request a dataset please fill out the "The Web-collected Animation Dataset Release Agreement", send the email to songwenfenga@gmail.com.
 
