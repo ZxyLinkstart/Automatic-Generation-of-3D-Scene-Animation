@@ -20,8 +20,8 @@ conda env create -f environment.yml
 conda activate AG3D
 ```
 
-3. Download the WCAD and HOI annotation
+3. Download the "The Web-collected Animation Dataset(WCAD)"
 
-If you want to request a dataset please fill out the "WCAD_Agreement Agreement", send the email to songwenfenga@gmail.com.
+If you want to request a dataset please fill out the "The_Web-collected_Animation_Dataset_Agreement_Agreement", send the email to songwenfenga@gmail.com.
 
 ## We will upload the pre-trained models.
