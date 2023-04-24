@@ -20,6 +20,8 @@ conda env create -f environment.yml
 conda activate AG3D
 ```
 
-3. Download the [WCAD v0.1](https://pan.baidu.com/s/18hSpaQ36x0A-OWn-hgcOEQ) (password:srp1) and [HOI annotation](https://pan.baidu.com/s/17bRpE49KkdeyTL5NoQcXUw) (password:3osd)
+3. Download the WCAD and HOI annotation
+
+If you want to request a dataset please fill out the "WCAD_Agreement Agreement", send the email to songwenfenga@gmail.com.
 
 ## We will upload the pre-trained models.
