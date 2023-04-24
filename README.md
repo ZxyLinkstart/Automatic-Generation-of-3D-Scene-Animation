@@ -22,6 +22,6 @@ conda activate AG3D
 
 3. Download the "The Web-collected Animation Dataset(WCAD)"
 
-If you want to request a dataset please fill out the "The_Web-collected_Animation_Dataset_Agreement_Agreement", send the email to songwenfenga@gmail.com.
+If you want to request a dataset please fill out the "The Web-collected Animation Dataset Release Agreement", send the email to songwenfenga@gmail.com.
 
 ## We will upload the pre-trained models.
